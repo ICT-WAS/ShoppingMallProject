@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>쇼핑몰 메인</title>
 </head>
 <body>
+
+<a href="/ShoppingMallProject/join">회원가입</a>
+<a href="/ShoppingMallProject/login">로그인</a>
 
 </body>
 </html>
