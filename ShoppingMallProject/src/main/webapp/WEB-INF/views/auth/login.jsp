@@ -32,6 +32,8 @@
 				<label class="form-check-label"> <input
 					class="form-check-input" type="checkbox" name="remember">자동로그인
 				</label>
+				
+				<a href="#">아이디/비밀번호 찾기</a>
 			</div>
 			<button type="submit" class="btn btn-primary">로그인</button>
 		</form>
