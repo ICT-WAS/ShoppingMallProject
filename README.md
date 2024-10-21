@@ -1,4 +1,4 @@
-# ShoppingmallProject
+# Shopping mall project
 
 
 ## 소스 트리 설치
