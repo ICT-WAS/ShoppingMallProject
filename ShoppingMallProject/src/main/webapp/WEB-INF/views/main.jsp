@@ -1,15 +1,9 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>쇼핑몰 메인</title>
-</head>
-<body>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 
-<a href="/ShoppingMallProject/join">회원가입</a>
-<a href="/ShoppingMallProject/login">로그인</a>
+<%
+    String pageTitle = "메인 페이지"; // 페이지 제목
+    String contentPage = "blank.jsp"; // 포함할 콘텐츠 페이지
+    String scriptPage = "blank.jsp";
+%>
 
-</body>
-</html>
+<%@ include file="../base.jsp" %>
