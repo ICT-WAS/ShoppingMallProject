@@ -1,6 +1,5 @@
 # Shopping mall project
 
-
 ## 소스 트리 설치
 
 https://www.sourcetreeapp.com/
