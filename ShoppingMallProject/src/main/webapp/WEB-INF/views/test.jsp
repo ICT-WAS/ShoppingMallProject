@@ -7,6 +7,6 @@ pageEncoding="UTF-8"%>
 <title>Insert title here</title>
 </head>
 <body>
-test
+test하고있습니다.
 </body>
 </html>
