@@ -1,2 +1,0 @@
-a href=ShoppingMallProjectjoin회원가입a
-a href=ShoppingMallProjectlogin로그인a

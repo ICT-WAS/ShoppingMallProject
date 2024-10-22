@@ -7,6 +7,7 @@
 <head>
     <title><%= pageTitle %></title>
 	<%@ include file="views/css.jsp" %>
+	<jsp:include page="<%= scriptPage %>" />
 </head>
 
 <body class="template-color-1">

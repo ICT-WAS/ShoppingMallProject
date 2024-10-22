@@ -9,7 +9,7 @@
                     <div class="row">
                         <div class="col-xl-3 col-lg-2 col-md-3 col-sm-5">
                             <div class="header-logo_area">
-                                <a href="index.html">
+                                <a href="/ShoppingMallProject/main">
                                     <img src="assets/images/menu/logo/2.png" alt="Uren's Logo">
                                 </a>
                             </div>
@@ -372,8 +372,8 @@
                                         <li><a href="my-account.html"><span class="fa fa-user"></span> 
                                         <span>회원가입/로그인</span><i class="fa fa-chevron-down"></i></a>
                                             <ul class="ht-dropdown ht-my_account">
-                                                <li><a href="javascript:void(0)">회원가입</a></li>
-                                                <li class="active"><a href="javascript:void(0)">로그인</a></li>
+                                                <li><a href="/ShoppingMallProject/join">회원가입</a></li>
+                                                <li><a href="/ShoppingMallProject/login">로그인</a></li>
                                             </ul>
                                         </li>
                                     </ul>
