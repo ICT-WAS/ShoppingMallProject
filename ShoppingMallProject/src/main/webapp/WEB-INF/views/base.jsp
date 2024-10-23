@@ -9,7 +9,7 @@
 <head>
     <ui:css />
     <meta charset="UTF-8">
-	<title>메인 페이지</title>
+	<title>타이틀</title>
 	
 	<!-- 스크립트 -->
 	
